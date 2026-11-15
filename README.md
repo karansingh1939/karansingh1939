@@ -3,7 +3,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open_to-AI%2FML_%26_SDE_internships-ffffff?style=for-the-badge&labelColor=000000" alt="Open to work">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=1200&color=FFFFFF&center=true&vCenter=true&width=640&height=40&lines=Open+to+AI%2FML%2C+applied+AI+and+SDE+internships;I+learn+by+building;Local+LLMs+%C2%B7+RAG+%C2%B7+full-stack+apps">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=1200&color=000000&center=true&vCenter=true&width=640&height=40&lines=Open+to+AI%2FML%2C+applied+AI+and+SDE+internships;I+learn+by+building;Local+LLMs+%C2%B7+RAG+%C2%B7+full-stack+apps" alt="Open to AI/ML, applied AI and SDE internships. I learn by building. Local LLMs, RAG and full-stack apps.">
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=karansingh1939&label=PROFILE+VIEWS&color=2b2b2b&style=for-the-badge" alt="Profile views">
   <a href="https://www.linkedin.com/in/karansingh1939"><img src="https://img.shields.io/badge/LinkedIn-Connect-2b2b2b?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"></a>
   <a href="mailto:karansinghsaggu25@gmail.com"><img src="https://img.shields.io/badge/Email-karansinghsaggu25%40gmail.com-2b2b2b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email"></a>
 </p>
